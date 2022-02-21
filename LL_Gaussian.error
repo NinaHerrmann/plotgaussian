@@ -1,0 +1,81 @@
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) palma/2019a
+
+The following have been reloaded with a version change:
+  1) palma/2019a => palma/2020b
+
+/home/n/n_herr03/gaussianblur_ll/main.cu(299): warning: variable "threads" was declared but never referenced
+
+/home/n/n_herr03/gaussianblur_ll/main.cu(398): warning: variable "iterations_used" was declared but never referenced
+
+GPUassert: an illegal memory access was encountered /home/n/n_herr03/gaussianblur_ll/main.cu 321
+GPUassert: an illegal memory access was encountered /home/n/n_herr03/gaussianblur_ll/main.cu 321
+GPUassert: an illegal memory access was encountered /home/n/n_herr03/gaussianblur_ll/main.cu 321
+GPUassert: an illegal memory access was encountered /home/n/n_herr03/gaussianblur_ll/main.cu 321
+GPUassert: an illegal memory access was encountered /home/n/n_herr03/gaussianblur_ll/main.cu 321
+GPUassert: an illegal memory access was encountered /home/n/n_herr03/gaussianblur_ll/main.cu 321
+GPUassert: an illegal memory access was encountered /home/n/n_herr03/gaussianblur_ll/main.cu 321
+GPUassert: an illegal memory access was encountered /home/n/n_herr03/gaussianblur_ll/main.cu 321
+GPUassert: an illegal memory access was encountered /home/n/n_herr03/gaussianblur_ll/main.cu 321
+GPUassert: an illegal memory access was encountered /home/n/n_herr03/gaussianblur_ll/main.cu 321
+GPUassert: an illegal memory access was encountered /home/n/n_herr03/gaussianblur_ll/main.cu 321
+GPUassert: an illegal memory access was encountered /home/n/n_herr03/gaussianblur_ll/main.cu 321
+GPUassert: an illegal memory access was encountered /home/n/n_herr03/gaussianblur_ll/main.cu 321
+GPUassert: an illegal memory access was encountered /home/n/n_herr03/gaussianblur_ll/main.cu 321
+GPUassert: an illegal memory access was encountered /home/n/n_herr03/gaussianblur_ll/main.cu 321
+GPUassert: an illegal memory access was encountered /home/n/n_herr03/gaussianblur_ll/main.cu 321
+GPUassert: an illegal memory access was encountered /home/n/n_herr03/gaussianblur_ll/main.cu 321
+GPUassert: an illegal memory access was encountered /home/n/n_herr03/gaussianblur_ll/main.cu 321
+GPUassert: an illegal memory access was encountered /home/n/n_herr03/gaussianblur_ll/main.cu 321
+GPUassert: an illegal memory access was encountered /home/n/n_herr03/gaussianblur_ll/main.cu 321
+GPUassert: an illegal memory access was encountered /home/n/n_herr03/gaussianblur_ll/main.cu 321
+GPUassert: an illegal memory access was encountered /home/n/n_herr03/gaussianblur_ll/main.cu 321
+GPUassert: an illegal memory access was encountered /home/n/n_herr03/gaussianblur_ll/main.cu 321
+GPUassert: an illegal memory access was encountered /home/n/n_herr03/gaussianblur_ll/main.cu 321
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: an illegal memory access was encountered /home/n/n_herr03/gaussianblur_ll/main.cu 321
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: an illegal memory access was encountered /home/n/n_herr03/gaussianblur_ll/main.cu 321
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: an illegal memory access was encountered /home/n/n_herr03/gaussianblur_ll/main.cu 321
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: an illegal memory access was encountered /home/n/n_herr03/gaussianblur_ll/main.cu 321
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320
+GPUassert: an illegal memory access was encountered /home/n/n_herr03/gaussianblur_ll/main.cu 321
+GPUassert: invalid argument /home/n/n_herr03/gaussianblur_ll/main.cu 320

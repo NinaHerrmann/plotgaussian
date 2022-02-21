@@ -1,0 +1,50 @@
+
+The following have been reloaded with a version change:
+  1) palma/2019a => palma/2020b
+
+CMake Warning (dev) in CMakeLists.txt:
+  Policy CMP0104 is not set: CMAKE_CUDA_ARCHITECTURES now detected for NVCC,
+  empty CUDA_ARCHITECTURES not allowed.  Run "cmake --help-policy CMP0104"
+  for policy details.  Use the cmake_policy command to set the policy and
+  suppress this warning.
+
+  CUDA_ARCHITECTURES is empty for target "gaussianblur".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Policy CMP0104 is not set: CMAKE_CUDA_ARCHITECTURES now detected for NVCC,
+  empty CUDA_ARCHITECTURES not allowed.  Run "cmake --help-policy CMP0104"
+  for policy details.  Use the cmake_policy command to set the policy and
+  suppress this warning.
+
+  CUDA_ARCHITECTURES is empty for target "gaussianblur".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+In file included from /home/n/n_herr03/stenciltestgaussian/include/functors.h:40,
+                 from /home/n/n_herr03/stenciltestgaussian/include/dm.h:39,
+                 from /home/n/n_herr03/stenciltestgaussian/examples/gaussianblur.cu:8:
+/home/n/n_herr03/stenciltestgaussian/include/detail/conversion.h:40: warning: "MSL_IS_SUPERCLASS" redefined
+   40 | #define MSL_IS_SUPERCLASS(T, U) (detail::Conversion<const U*, const T*>::exists && !detail::Conversion<const T*, const void*>::sameType)
+      | 
+In file included from /home/n/n_herr03/stenciltestgaussian/include/muesli.h:54,
+                 from /home/n/n_herr03/stenciltestgaussian/include/functors.h:38,
+                 from /home/n/n_herr03/stenciltestgaussian/include/dm.h:39,
+                 from /home/n/n_herr03/stenciltestgaussian/examples/gaussianblur.cu:8:
+/home/n/n_herr03/stenciltestgaussian/include/conversion.h:36: note: this is the location of the previous definition
+   36 | #define MSL_IS_SUPERCLASS(T, U) (MSL_Conversion<const U*, const T*>::exists && !MSL_Conversion<const T*, const void*>::sameType)
+      | 
+/home/n/n_herr03/stenciltestgaussian/include/../src/dm.cpp(1486): warning: variable "milliseconds" was declared but never referenced
+
+In file included from /home/n/n_herr03/stenciltestgaussian/include/functors.h:40,
+                 from /home/n/n_herr03/stenciltestgaussian/include/dm.h:39,
+                 from /home/n/n_herr03/stenciltestgaussian/examples/gaussianblur.cu:8:
+/home/n/n_herr03/stenciltestgaussian/include/detail/conversion.h:40: warning: "MSL_IS_SUPERCLASS" redefined
+   40 | #define MSL_IS_SUPERCLASS(T, U) (detail::Conversion<const U*, const T*>::exists && !detail::Conversion<const T*, const void*>::sameType)
+      | 
+In file included from /home/n/n_herr03/stenciltestgaussian/include/muesli.h:54,
+                 from /home/n/n_herr03/stenciltestgaussian/include/functors.h:38,
+                 from /home/n/n_herr03/stenciltestgaussian/include/dm.h:39,
+                 from /home/n/n_herr03/stenciltestgaussian/examples/gaussianblur.cu:8:
+/home/n/n_herr03/stenciltestgaussian/include/conversion.h:36: note: this is the location of the previous definition
+   36 | #define MSL_IS_SUPERCLASS(T, U) (MSL_Conversion<const U*, const T*>::exists && !MSL_Conversion<const T*, const void*>::sameType)
+      | 
